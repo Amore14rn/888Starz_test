@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/Amore14rn/888Starz/internal/domain/user/model"
+	"github.com/Amore14rn/888Starz_test/internal/domain/user/model"
 	"time"
 )
 

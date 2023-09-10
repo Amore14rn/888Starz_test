@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"github.com/Amore14rn/888Starz/internal/domain/products/model"
+	"github.com/Amore14rn/888Starz_test/internal/domain/products/model"
 	"time"
 )
 

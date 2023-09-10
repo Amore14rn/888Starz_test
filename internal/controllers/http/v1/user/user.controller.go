@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/Amore14rn/888Starz/internal/domain/policy/user"
+	"github.com/Amore14rn/888Starz_test/internal/domain/policy/user"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

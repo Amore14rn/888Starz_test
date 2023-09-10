@@ -1,7 +1,7 @@
 package dal
 
 import (
-	"github.com/Amore14rn/888Starz/pkg/errors"
+	"github.com/Amore14rn/888Starz_test/pkg/errors"
 )
 
 type DALError struct {

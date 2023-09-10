@@ -2,10 +2,10 @@ package products
 
 import (
 	"context"
-	"github.com/Amore14rn/888Starz/internal/domain/products/model"
-	"github.com/Amore14rn/888Starz/internal/domain/products/service"
-	"github.com/Amore14rn/888Starz/pkg/common/core/clock"
-	"github.com/Amore14rn/888Starz/pkg/errors"
+	"github.com/Amore14rn/888Starz_test/internal/domain/products/model"
+	"github.com/Amore14rn/888Starz_test/internal/domain/products/service"
+	"github.com/Amore14rn/888Starz_test/pkg/common/core/clock"
+	"github.com/Amore14rn/888Starz_test/pkg/errors"
 	"time"
 )
 

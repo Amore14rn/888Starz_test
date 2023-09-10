@@ -2,11 +2,11 @@ package dao
 
 import (
 	"context"
-	"github.com/Amore14rn/888Starz/internal/dal/postgres"
-	"github.com/Amore14rn/888Starz/internal/domain/products/model"
-	"github.com/Amore14rn/888Starz/pkg/errors"
-	psql "github.com/Amore14rn/888Starz/pkg/postgresql"
-	"github.com/Amore14rn/888Starz/pkg/tracing"
+	"github.com/Amore14rn/888Starz_test/internal/dal/postgres"
+	"github.com/Amore14rn/888Starz_test/internal/domain/products/model"
+	"github.com/Amore14rn/888Starz_test/pkg/errors"
+	psql "github.com/Amore14rn/888Starz_test/pkg/postgresql"
+	"github.com/Amore14rn/888Starz_test/pkg/tracing"
 	sq "github.com/Masterminds/squirrel"
 	"strconv"
 )

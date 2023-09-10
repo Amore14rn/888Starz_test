@@ -2,8 +2,8 @@ package dao
 
 import (
 	"database/sql"
-	"github.com/Amore14rn/888Starz/internal/domain/user/model"
-	"github.com/Amore14rn/888Starz/pkg/utils/pointer"
+	"github.com/Amore14rn/888Starz_test/internal/domain/user/model"
+	"github.com/Amore14rn/888Starz_test/pkg/utils/pointer"
 	"time"
 )
 

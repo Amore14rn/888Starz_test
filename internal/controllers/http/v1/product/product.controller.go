@@ -1,7 +1,7 @@
 package product
 
 import (
-	"github.com/Amore14rn/888Starz/internal/domain/policy/products"
+	"github.com/Amore14rn/888Starz_test/internal/domain/policy/products"
 	"github.com/gin-gonic/gin"
 
 	"net/http"

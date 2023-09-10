@@ -2,9 +2,9 @@ package main
 
 import (
 	"context"
-	"github.com/Amore14rn/888Starz/internal/app"
-	"github.com/Amore14rn/888Starz/internal/config"
-	"github.com/Amore14rn/888Starz/pkg/common/logging"
+	"github.com/Amore14rn/888Starz_test/internal/app"
+	"github.com/Amore14rn/888Starz_test/internal/config"
+	"github.com/Amore14rn/888Starz_test/pkg/common/logging"
 )
 
 func main() {
