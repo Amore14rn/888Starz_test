@@ -3,7 +3,6 @@ module github.com/Amore14rn/888Starz_test
 go 1.21.0
 
 require (
-	github.com/Amore14rn/888Starz v0.0.0-20230910191704-36fbfaf4a231
 	github.com/Masterminds/squirrel v1.5.4
 	github.com/gin-gonic/gin v1.9.1
 	github.com/go-playground/validator/v10 v10.15.3
